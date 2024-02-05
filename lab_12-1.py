@@ -11,7 +11,7 @@ def find_evens(num_A, num_B):
 
     return even_numbers
 
-#Sets num a and num b equal to a number and finds the evens in those numbers, then prints result.
+#Sets num a and num b equal to a number and finds the evens within those numbers, then prints result.
 num_A = 10
 num_B = 20
 result = find_evens(num_A, num_B)
